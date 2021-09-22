@@ -1,0 +1,27 @@
+body {
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  background-color: rgba(245, 222, 179, 0.692);
+}
+header {
+  background-color: rgb(238, 255, 0);
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  max-width: 1500px;
+}
+.main a {
+  width: 90%;
+}
+.main a img {
+  width: 50%;
+  border: 4px solid yellow;
+}
+a {
+  color: black;
+}
