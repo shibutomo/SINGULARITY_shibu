@@ -19,7 +19,8 @@ header {
   width: 90%;
 }
 .main a img {
-  width: 50%;
+  height: 515px;
+  width: auto;
   border: 4px solid yellow;
 }
 a {
