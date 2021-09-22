@@ -26,3 +26,7 @@ header {
 a {
   color: black;
 }
+.team{
+  width: 80%;
+  text-align: left;
+}
